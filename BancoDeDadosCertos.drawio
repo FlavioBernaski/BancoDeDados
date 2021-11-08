@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T19:39:16.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.91" etag="clKXdA7N4trBl-F8C5BV" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T19:44:38.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.91" etag="4v0nYz6t-A2jA1r71tkE" version="15.7.0" type="github">
   <diagram id="e7UpI3-_oJ12gAYYC6TY" name="Page-1">
     <mxGraphModel dx="1978" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -752,9 +752,11 @@
             <mxPoint x="39.99999999999977" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TMxhiazHu43cB9fUqsHN-293" value="&lt;span style=&quot;font-size: 18px&quot;&gt;github.com/FlavioBernaski&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-695" y="680" width="230" height="20" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Flávio Augusto Bernaski da Silva R.A.: 1817809&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Modelo Entidade-Relacionamento - Pizzaria&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;https://github.com/FlavioBernaski/BancoDeDados&lt;/span&gt;&lt;/div&gt;" link="https://github.com/FlavioBernaski/BancoDeDados" id="TMxhiazHu43cB9fUqsHN-293">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+            <mxGeometry x="-650" y="630" width="410" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
