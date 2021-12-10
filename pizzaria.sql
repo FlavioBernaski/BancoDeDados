@@ -1,3 +1,4 @@
+-- URL DO GITHUB: https://github.com/FlavioBernaski/BancoDeDados
 drop database if exists Pizzaria;
 create database Pizzaria;
 use Pizzaria;
